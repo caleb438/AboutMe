@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crytick
 - 👀 I’m interested in programming and cybersecurity
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and making a local website!
 
 
 <!---
