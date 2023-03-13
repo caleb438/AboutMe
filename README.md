@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Crytick
+- 👋 Hi, I’m @caleb438
 - 👀 I’m interested in programming and cybersecurity
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python
 
 
 <!---
