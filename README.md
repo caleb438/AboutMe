@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @caleb438
-- 👀 I’m interested in programming and cybersecurity
-- 🌱 I’m currently learning python
+I occasionally make somewhat interesting things
 
 
 <!---
